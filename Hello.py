@@ -1,2 +1,2 @@
 x = input("What is your name?:")
-adsygouiwygh
+print("Hello,{0}".format(x))
